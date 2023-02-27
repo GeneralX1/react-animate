@@ -18,7 +18,7 @@
   "homepage": "https://github.com/elierotenberg/react-animate",
   "dependencies": {
     "bluebird": "^2.9.30",
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.21",
     "raf": "^3.0.0",
     "should": "^6.0.3",
     "tween-interpolate": "^1.0.1"
